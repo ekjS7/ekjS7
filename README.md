@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, Bash
 - **Cyber Tools:** Nmap, Hydra, Wireshark, Metasploit, Burp Suite
-- **Platforms:** Kali Linux, Ubuntu
+- **Platforms:** Kali Linux, Ubuntu, MacOS
 
 ---
 
