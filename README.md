@@ -1,4 +1,4 @@
-# 👋 Hi, I'm QuoocVyn!
+# 👋 Hi, I'm ekjS7!
 
 🎯 **Cybersecurity Enthusiast | Red & Blue Team Explorer**
 💻 2nd-year CS Student @ University of Transport Ho Chi Minh City
@@ -20,16 +20,16 @@
 ---
 
 ### 📌 Projects
-- 🔑 **[Digital Signature Web App](https://github.com/yourrepo)** – Implementing cryptographic signing
+- 🔑 **[Digital Signature Web App](https://github.com/ekjS7/digital-signature)** – Implementing cryptographic signing
 - 🛡️ **[Cybersecurity Labs](https://github.com/yourrepo)** – Nmap, Hydra, Metasploit practice
-- 🌐 **[Portfolio Website](https://yourportfolio.com)**
+- 🌐 **[Portfolio Website](https://ekjs.vercel.app)**
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
-[![Email](https://img.shields.io/badge/Email-me-blue?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trqvinh7/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile](https://tryhackme.com/p/sjke))
+[![Email](https://img.shields.io/badge/Email-me-blue?logo=gmail&logoColor=white)](mailto:trinhlamquocvinh.forwork@gmail.com.com)
 
 ---
 
