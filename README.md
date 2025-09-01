@@ -21,7 +21,7 @@
 
 ### 📌 Projects
 - 🔑 **[Digital Signature Web App](https://github.com/ekjS7/digital-signature)** – Implementing cryptographic signing
-- 🛡️ **[Cybersecurity Labs](https://github.com/yourrepo)** – Nmap, Hydra, Metasploit practice
+- 🛡️ **[Cybersecurity Labs](https://github.com/ekjS7?tab=repositories)** – Nmap, Hydra, Metasploit practice
 - 🌐 **[Portfolio Website](https://ekjs.vercel.app)**
 
 ---
