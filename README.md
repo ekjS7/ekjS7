@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ekjS7!
 
 🎯 **Cybersecurity Enthusiast | Red & Blue Team Explorer**
-💻 2nd-year CS Student @ University of Transport Ho Chi Minh City
+💻 3rd-year CS Student @ University of Transport Ho Chi Minh City
 
 ---
 
