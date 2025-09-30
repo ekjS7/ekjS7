@@ -7,7 +7,7 @@
 
 ### 🔍 About Me
 - 🔐 Passionate about **Offensive & Defensive Security**
-- 🌱 Currently learning: `Nmap`, `Metasploit`, `Wireshark`
+- 🌱 Currently learning: `Nmap`, `Metasploit`, `Wireshark`,`...`
 - ⚡ Fun fact: I love breaking things… then fixing them
 
 ---
