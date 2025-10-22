@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ekjS7!
+q# 👋 Hi, I'm ekjS7!
 
 🎯 **Cybersecurity Enthusiast | Red & Blue Team Explorer**
 💻 3rd-year CS Student @ University of Transport Ho Chi Minh City
@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, Bash
 - **Cyber Tools:** Nmap, Hydra, Wireshark, Metasploit, Burp Suite
-- **Platforms:** Kali Linux, Ubuntu, MacOS
+- **Platforms:** Kali Linux, Ubuntu
 
 ---
 
