@@ -1,4 +1,4 @@
-q# 👋 Hi, I'm ekjS7!
+# 👋 Hi, I'm ekjS7!
 
 🎯 **Cybersecurity Enthusiast | Red & Blue Team Explorer**
 💻 3rd-year CS Student @ University of Transport Ho Chi Minh City
